@@ -63,6 +63,9 @@ var7
 
 var8 <- rep(var6, each=2) #each는 요소하나하나가 반복된다
 var8
+#R 프로그램은 우선순위가 &-->and임
+
+
 
 
 
